@@ -49,7 +49,7 @@ const normalizeRender = vm => {
     }
   }
 }
-
+// test , added by jack on 2019.04.08 23:02
 function waitForServerPrefetch (vm, resolve, reject) {
   let handlers = vm.$options.serverPrefetch
   if (isDef(handlers)) {
