@@ -15,3 +15,6 @@ class Person{
 
 var p1 = new Person('jack', 29, 'male');
 p1.sayHello();
+
+var p2 = new Person('linna', 26, 'female');
+p2.sayHello();
